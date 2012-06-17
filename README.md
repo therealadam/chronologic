@@ -1,3 +1,5 @@
+**IMPORTANT** Chronologic has been end-of-life'd. It's no longer in production, but it's still an OK piece of software. [Would you like to know more?](http://weblog.therealadam.com/2012/06/17/chronologic-a-piece-of-software-history/)
+
 # Chronologic: You put your feeds in it
 
 Chronologic is a service for storing and generatin activity feeds, new
